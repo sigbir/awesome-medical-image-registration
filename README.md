@@ -9,6 +9,7 @@ Learn2Reg is a public computational challenge organized by MICCAI SIG-BIR, featu
 <p align=center><img src="https://github.com/sigbir/awesome/blob/main/figs/L2R_tasks.jpg" width="800"/></p>
 
 ## *Paper & Code Collection*
-*  [ :newspaper: IEEE TMI 2024, :computer: *Abdomen MR-CT*, *Abdomen CT-CT*, *OASIS*] **ConvexAdam: Self-Configuring Dual-Optimisation-Based 3D Multitask Medical Image Registration**, Siebert et al. [[Paper](https://ieeexplore.ieee.org/document/10681158)][[GitHub](https://github.com/multimodallearning/convexAdam)]
-*  [ :newspaper: arXiv preprint 2024, :computer: *NLST*, *OASIS*, *LUMIR*] **Vector Field Attention for Deformable Image Registration**, Liu et al. [[Paper](https://arxiv.org/abs/2407.10209)][[GitHub](https://github.com/yihao6/vfa/)]
+*  [ :computer: *Abdomen MR-CT*, *Abdomen CT-CT*, *OASIS*; :newspaper: IEEE TMI 2024] **ConvexAdam: Self-Configuring Dual-Optimisation-Based 3D Multitask Medical Image Registration**, Siebert et al. [[Paper](https://ieeexplore.ieee.org/document/10681158)][[GitHub](https://github.com/multimodallearning/convexAdam)]
+*  [ :computer: *NLST*, *OASIS*, *LUMIR*; :newspaper: arXiv preprint 2024] **Vector Field Attention for Deformable Image Registration**, Liu et al. [[Paper](https://arxiv.org/abs/2407.10209)][[GitHub](https://github.com/yihao6/vfa/)]
+*  [ :computer: *OASIS*, *LUMIR*; :newspaper: MedIA 2022] **TransMorph: Transformer for unsupervised medical image registration**, Chen et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841522002432)][[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)]
 
