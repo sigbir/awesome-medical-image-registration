@@ -9,6 +9,6 @@ Learn2Reg is a public computational challenge organized by MICCAI SIG-BIR, featu
 <p align=center><img src="https://github.com/sigbir/awesome/blob/main/figs/L2R_tasks.jpg" width="800"/></p>
 
 ## *Paper & Code Collection*
-1. [ :newspaper: IEEE TMI 2024, :computer: *Abdomen MR-CT*, *Abdomen CT-CT*, *OASIS*] **ConvexAdam: Self-Configuring Dual-Optimisation-Based 3D Multitask Medical Image Registration**, Siebert et al. [[Paper](https://ieeexplore.ieee.org/document/10681158)][[GitHub](https://github.com/multimodallearning/convexAdam)]
-2. [ :newspaper: arXiv preprint 2024, :computer: *NLST*, *OASIS*, *LUMIR*] **Vector Field Attention for Deformable Image Registration**, Liu et al. [[Paper](https://arxiv.org/abs/2407.10209)][[GitHub](https://github.com/yihao6/vfa/)]
+*  [ :newspaper: IEEE TMI 2024, :computer: *Abdomen MR-CT*, *Abdomen CT-CT*, *OASIS*] **ConvexAdam: Self-Configuring Dual-Optimisation-Based 3D Multitask Medical Image Registration**, Siebert et al. [[Paper](https://ieeexplore.ieee.org/document/10681158)][[GitHub](https://github.com/multimodallearning/convexAdam)]
+*  [ :newspaper: arXiv preprint 2024, :computer: *NLST*, *OASIS*, *LUMIR*] **Vector Field Attention for Deformable Image Registration**, Liu et al. [[Paper](https://arxiv.org/abs/2407.10209)][[GitHub](https://github.com/yihao6/vfa/)]
 
