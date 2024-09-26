@@ -13,7 +13,7 @@ Learn2Reg is a public computational challenge organized by MICCAI SIG-BIR, featu
 ```
 Syntax:
 *  **Publication Title**, First Author et al.
-    *  :newspaper: [Journal/Conf. Name] 
+    *  :newspaper: [Journal/Conference Name] 
     *  :computer:  [*Learn2Reg Tasks*] 
     *  :link: [Paper Link][GitHub Link]
 ```
