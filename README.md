@@ -21,6 +21,10 @@ Syntax:
     *  :newspaper: [IEEE TMI 2024]
     *  :computer: [*Abdomen MR-CT*, *Abdomen CT-CT*, *OASIS*]
     *  :link: [[Paper](https://ieeexplore.ieee.org/document/10681158)][[GitHub](https://github.com/multimodallearning/convexAdam)]
+*  **Fourier-Net+: Leveraging Band-Limited Representation for Efficient 3D Medical Image Registration**, Xi et al.
+    *  :newspaper: [AAAI 2023, arXiv 2024] 
+    *  :computer: [*OncoReg*, *NLST*, *ThoraxCBCT*]
+    *  :link: [[Paper (AAAI)](https://doi.org/10.1609/aaai.v37i1.25182)][Paper (arXiv)](https://arxiv.org/abs/2307.02997)][[GitHub](https://github.com/xi-jia/Fourier-Net)]
 *  **Vector Field Attention for Deformable Image Registration**, Liu et al.
     *  :newspaper: [arXiv preprint 2024]
     *  :computer: [*NLST*, *OASIS*, *LUMIR*]
@@ -29,14 +33,14 @@ Syntax:
     *  :newspaper: [MedIA 2022]
     *  :computer: [*OASIS*, *LUMIR*] 
     *  :link: [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841522002432)][[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)]
-*  **Fourier-Net+: Leveraging Band-Limited Representation for Efficient 3D Medical Image Registration**, Xi et al.
-    *  :newspaper: [AAAI 2023, arXiv 2024] 
-    *  :computer: [*OncoReg*, *NLST*, *ThoraxCBCT*]
-    *  :link: [[Paper (AAAI)](https://doi.org/10.1609/aaai.v37i1.25182)][Paper (arXiv)](https://arxiv.org/abs/2307.02997)][[GitHub](https://github.com/xi-jia/Fourier-Net)]
 *  **U-Net vs Transformer: Is U-Net Outdated in Medical Image Registration?**, Xi et al.
     *  :newspaper: [MICCAI-MLMI 2022] 
     *  :computer: [*NLST*, *OASIS*] 
-    *  :link: [[Paper](https://arxiv.org/abs/2208.04939)][[GitHub](https://github.com/xi-jia/LKU-Net)] 
+    *  :link: [[Paper](https://arxiv.org/abs/2208.04939)][[GitHub](https://github.com/xi-jia/LKU-Net)]
+*  **Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation**, Chen et al.
+    *  :newspaper: [IJCAI 2022] 
+    *  :computer: [*Abdomen MR-CT*, *Lung CT*] 
+    *  :link: [[Paper](https://www.ijcai.org/proceedings/2022/0117.pdf)][[GitHub](https://github.com/heyblackC/DFMIR)]
 *  **Attention-based Deep Learning Registration (ADLReg)**, Pan et al.
     *  :newspaper: [-, 2021]
     *  :computer: [*Abdomen MR-CT*, *Abdomen CT-CT*, *OASIS*]
