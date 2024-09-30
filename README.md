@@ -1,6 +1,6 @@
 # <p align=center>Awesome Medical Image Registration</p>
-![Static Badge](https://img.shields.io/badge/MICCAI-SIG_BIR-blue?style=flat&logo=https%3A%2F%2Fgithub.com%2Fsigbir%2Fawesome-medical-image-registration%2Fblob%2Fmain%2Ffigs%2Fimage2vector.svg&link=https%3A%2F%2Fmiccai.org%2Findex.php%2Fspecial-interest-groups%2Fbir%2F)
-[![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Static Badge](https://img.shields.io/badge/MICCAI-SIG_BIR-%2337677e?style=flat&labelColor=%23ececec&link=https%3A%2F%2Fmiccai.org%2Findex.php%2Fspecial-interest-groups%2Fbir%2F)
+](https://miccai.org/index.php/special-interest-groups/bir/)[![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 <p align=center>A curation of medical image registration papers and source codes. This repository is actively maintained by MICCAI SIG-BIR.</p>
 
