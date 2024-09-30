@@ -32,7 +32,7 @@ Syntax:
     *  :newspaper: [arXiv preprint 2024]
     *  :computer: [*NLST*, *OASIS*, *LUMIR*]
     *  :link: [[Paper](https://arxiv.org/abs/2407.10209)][[GitHub](https://github.com/yihao6/vfa/)]
-*  **Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks**, Liu et al.
+*  **Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks**, Reithmeir et al.
     *  :newspaper: [SPIE MI 2024]
     *  :computer: [*Lung CT*, *NLST*]
     *  :link: [[Paper](https://arxiv.org/pdf/2311.08239)][[GitHub](https://github.com/annareithmeir/elastic-regularization-hypermorph)]
