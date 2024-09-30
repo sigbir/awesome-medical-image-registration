@@ -49,6 +49,13 @@ Syntax:
     *  :newspaper: [-, 2021] 
     *  :computer: [*NLST*, *OASIS*] 
     *  :link: [[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/3d_registration)]
-
+*  **Deep learning based registration using spatial gradients and noisy segmentation labels**, Estienne et al.
+    *  :newspaper: [MICCAI Learn2Reg, 2020] 
+    *  :computer: [*Hippocampus MR*, *Abdomen CT-CT*] 
+    *  :link: [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-71827-5_11)][[GitHub-Hippocampus](https://github.com/TheoEst/hippocampus_registration)][[GitHub-Abdomen-CT-CT](https://github.com/TheoEst/abdominal_registration)]
+*  **SimpleElastix for abdomen CT-CT registration**, Fourcade
+    *  :newspaper: [-, 2020]
+    *  :computer: [*Abdomen CT-CT*]
+    *  :link: [[Paper](https://ieeexplore.ieee.org/document/5338015)][[GitHub](https://github.com/fconstance/Learn2Reg_Task2_SimpleElastix)]
 ##
 <p align="center"> <a href="https://miccai.org/index.php/special-interest-groups/bir/" target="_blank"><img src="https://github.com/sigbir/awesome-medical-image-registration/blob/main/figs/sigbir_logo.jpg" width="180"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?q=Learn2Reg+Grand+Challenge&sca_esv=7742ccf3e574a415&sca_upv=1&ei=uUbyZrW8IbCXwbkP4p3KmQI&ved=0ahUKEwj1_LK95dqIAxWwSzABHeKOMiMQ4dUDCA8&uact=5&oq=Learn2Reg+Grand+Challenge&gs_lp=Egxnd3Mtd2l6LXNlcnAiGUxlYXJuMlJlZyBHcmFuZCBDaGFsbGVuZ2UyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRirAjIFECEYqwJIjRxQ3wRYvRpwAXgBkAEAmAFvoAGnDKoBBDEyLjS4AQPIAQD4AQGYAhGgAtkMwgIKEAAYsAMY1gQYR8ICCxAAGIAEGJECGIoFwgIFEAAYgATCAgQQABgewgIIEAAYgAQYogTCAggQABiiBBiJBZgDAIgGAZAGCJIHBDcuMTCgB5FD&sclient=gws-wiz-serp" target="_blank"><img src="https://github.com/sigbir/awesome-medical-image-registration/blob/main/figs/l2r_logo_21.png" width="90"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://miccai.org/" target="_blank"><img src="https://github.com/sigbir/awesome-medical-image-registration/blob/main/figs/miccai_logo2.jpg" width="100"/></a></p>
