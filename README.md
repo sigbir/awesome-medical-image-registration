@@ -1,6 +1,7 @@
 # <p align=center>Awesome Medical Image Registration</p>
-<p align=center>![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)</p>
-<p align=center>A collection of medical image registration papers and source codes</p>
+[![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+<p align=center>A curation of medical image registration papers and source codes. This repository is actively maintained by MICCAI SIG-BIR.</p>
 
 ## *Description*
 The importance of image registration in medical imaging is underrepresented at MICCAI, largely due to the complexity of applying deep learning to its ill-posed nature without real ground truth. In response, the ***MICCAI Special Interest Group in Biomedical Image Registration ([MICCAI SIG-BIR](https://miccai.org/index.php/special-interest-groups/bir/))*** is launching several initiatives aimed at uniting the fragmented image registration community and promoting research in the field. One such initiative is the creation of an ***Awesome Medical Image Registration*** GitHub page that will curate well-documented, out-of-the-box code applicable to at least two *Learn2Reg* tasks. This repository is designed to serve that purpose.
