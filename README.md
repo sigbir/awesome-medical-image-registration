@@ -29,6 +29,10 @@ Syntax:
     *  :newspaper: [arXiv preprint 2024]
     *  :computer: [*NLST*, *OASIS*, *LUMIR*]
     *  :link: [[Paper](https://arxiv.org/abs/2407.10209)][[GitHub](https://github.com/yihao6/vfa/)]
+*  **Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks**, Liu et al.
+    *  :newspaper: [SPIE MI 2024]
+    *  :computer: [*Lung CT*, *NLST*]
+    *  :link: [[Paper](https://arxiv.org/pdf/2311.08239)][[GitHub](https://github.com/annareithmeir/elastic-regularization-hypermorph)]
 *  **TransMorph: Transformer for unsupervised medical image registration**, Chen et al.
     *  :newspaper: [MedIA 2022]
     *  :computer: [*OASIS*, *LUMIR*] 
@@ -41,6 +45,10 @@ Syntax:
     *  :newspaper: [IJCAI 2022] 
     *  :computer: [*Abdomen MR-CT*, *Lung CT*] 
     *  :link: [[Paper](https://www.ijcai.org/proceedings/2022/0117.pdf)][[GitHub](https://github.com/heyblackC/DFMIR)]
+*  **Learning a deformable registration pyramid**, Gunnarsson et al.
+    *  :newspaper: [MICCAI Learn2Reg 2021] 
+    *  :computer: [*Abdomen MR-CT*, *OASIS*, *Lung CT*] 
+    *  :link: [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-71827-5_10)][[GitHub](https://github.com/ngunnar/learning-a-deformable-registration-pyramid)]
 *  **Attention-based Deep Learning Registration (ADLReg)**, Pan et al.
     *  :newspaper: [-, 2021]
     *  :computer: [*Abdomen MR-CT*, *Abdomen CT-CT*, *OASIS*]
