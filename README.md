@@ -9,7 +9,7 @@ The importance of image registration in medical imaging is underrepresented at M
 
 ## *Learn2Reg Tasks*
 Learn2Reg is a public computational challenge organized by MICCAI SIG-BIR, featuring 12 datasets with labels and multiple active leaderboards. You can explore more at **learn2reg.grand-challenge.org**
-<p align=center><img src="https://github.com/sigbir/awesome/blob/main/figs/L2R_tasks_.jpg" width="800"/></p>
+<p align=center><img src="https://github.com/sigbir/awesome-medical-image-registration/blob/main/figs/L2R_tasks_.jpg" width="800"/></p>
 
 ## *Paper & Code Collection*
 
