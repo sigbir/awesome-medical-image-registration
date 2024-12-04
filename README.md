@@ -73,8 +73,8 @@ Syntax:
     *  :computer: [*OASIS*]
     *  :link: [[Paper](https://arxiv.org/abs/2006.16148)][[GitHub](https://github.com/cwmok/LapIRN)]
 *  **SITReg: Multi-resolution architecture for symmetric, inverse consistent, and topology preserving image registration**, Joel Honkamaa and Pekka Marttinen.
-    *  :newspaper: [Under review, 1st place in the L2R LUMIR challenge]
-    *  :computer: [*OASIS*]
-    *  :link: [[Paper](https://arxiv.org/abs/2303.10211)][[GitHub](https://github.com/honkamj/SITReg)]
+    *  :newspaper: [MELBA 2024, 1st place in the L2R LUMIR challenge]
+    *  :computer: [*LUMIR*, *OASIS*, *NLST*]
+    *  :link: [[Paper](https://doi.org/10.59275/j.melba.2024-276b)][[GitHub](https://github.com/honkamj/SITReg)]
 ##
 <p align="center"> <a href="https://miccai.org/index.php/special-interest-groups/bir/" target="_blank"><img src="https://github.com/sigbir/awesome-medical-image-registration/blob/main/figs/sigbir_logo.jpg" width="180"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?q=Learn2Reg+Grand+Challenge&sca_esv=7742ccf3e574a415&sca_upv=1&ei=uUbyZrW8IbCXwbkP4p3KmQI&ved=0ahUKEwj1_LK95dqIAxWwSzABHeKOMiMQ4dUDCA8&uact=5&oq=Learn2Reg+Grand+Challenge&gs_lp=Egxnd3Mtd2l6LXNlcnAiGUxlYXJuMlJlZyBHcmFuZCBDaGFsbGVuZ2UyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRirAjIFECEYqwJIjRxQ3wRYvRpwAXgBkAEAmAFvoAGnDKoBBDEyLjS4AQPIAQD4AQGYAhGgAtkMwgIKEAAYsAMY1gQYR8ICCxAAGIAEGJECGIoFwgIFEAAYgATCAgQQABgewgIIEAAYgAQYogTCAggQABiiBBiJBZgDAIgGAZAGCJIHBDcuMTCgB5FD&sclient=gws-wiz-serp" target="_blank"><img src="https://github.com/sigbir/awesome-medical-image-registration/blob/main/figs/l2r_logo_21.png" width="90"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://miccai.org/" target="_blank"><img src="https://github.com/sigbir/awesome-medical-image-registration/blob/main/figs/miccai_logo2.jpg" width="100"/></a></p>
